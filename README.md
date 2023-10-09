@@ -1,6 +1,6 @@
 # fake-posts-api
 
-## https://fake-tweets-api.herokuapp.com/posts
+## https://fake-tweets-api-kc.vercel.app/posts
 
 ### A simple use fake-posts-api
 
